@@ -1,6 +1,6 @@
 {
-  "ver": "1.0",
-  "game": "https://drive.google.com/file/d/1yimVQgei_QQGRE5XP3-22wQxTICxeCDf/view?usp=sharing",
+  "ver": "1.1",
+  "game": "https://drive.google.com/file/d/1YIWTX9O0C4kGjjZqqxrA81E2qjuAQsha/view?usp=sharing",
   "changes": [
     "+Added Eula's nudes",
     "-Removed Ganyu's panties"
